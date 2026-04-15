@@ -159,3 +159,5 @@ That said, there's a bunch of ways you can contribute to this project, like by:
 # License
 
 [MIT © Dalton Menezes](https://github.com/daltonmenezes/electron-app/blob/main/LICENSE)
+
+create a new folder for backend common service and also create subfolder for local frontend and backend
