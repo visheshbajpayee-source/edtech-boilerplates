@@ -301,3 +301,7 @@ You can also deploy your app manually, check out the [deployment documentation](
 ## Questions
 
 If you have any issues or questions, reach out to us on [Discord](https://discord.com/invite/payload) or start a [GitHub discussion](https://github.com/payloadcms/payload/discussions).
+
+
+add a cms to this and create two folder for frontend and backend
+run and check node version suppported 18+ is fine
